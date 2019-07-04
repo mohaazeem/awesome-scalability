@@ -94,7 +94,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 - [ ] [Design for Resiliency](http://highscalability.com/blog/2012/12/31/designing-for-resiliency-will-be-so-2013.html)
 - [ ] [Design for Self-healing](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/self-healing)
 - [ ] [Design for Scaling Out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)
-- [ ] [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)
+- [x] [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)
 - [ ] [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
 
 ## Scalability
@@ -109,7 +109,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 	- [ ] [The Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
 	- [ ] [Dockerizing MySQL at Uber](https://eng.uber.com/dockerizing-mysql/)
 	- [ ] [Testing of Microservices at Spotify](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
-	- [ ] [Organize Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
+	- [x] [Organize Monolith Before Breaking it into Services at Weebly](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
 	- [ ] [Lessons learned running Docker in production at Treehouse](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770)
 	- [ ] [Inside a SoundCloud Microservice](https://developers.soundcloud.com/blog/inside-a-soundcloud-microservice)
 	- [ ] [Operate Kubernetes Reliably at Stripe](https://stripe.com/blog/operating-kubernetes)
